@@ -1,4 +1,4 @@
-# SYS1_WeChall_Mi.Sedera
+# WeChall
 Warchall Challenge
 
 ## Enregistrement
